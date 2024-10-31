@@ -15,6 +15,18 @@ const listBooks = [
     name: 'Rural, Matematica',
     box: 3,
   },
+  {
+    name: 'As historias da viuva',
+    box: 3,
+  },
+  {
+    name: 'Dona flor e seus maridos',
+    box: 2,
+  },
+  {
+    name: 'Matematica',
+    box: 3,
+  },
 ];
 
 module.exports = { listBooks };
